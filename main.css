@@ -245,12 +245,12 @@ span{
 
     .navbar{
         height: 60px;
-        width: 260px;
+        
     }
 
     .nav-logo{
         height: 50px;
-        width: 80px;
+        /* width: 80px; */
     }
 
 
@@ -291,9 +291,9 @@ span{
 
     /* pannel css */
 
-    .pannel{
+    /* .pannel{
         width: 260px;
-    }
+    } */
 
 .pannel-all{
     font-size: 0.4rem;
@@ -325,12 +325,12 @@ span{
 .hero-section{
     background-image: url(./images/hero_image.jpg);
     height: 100px;
-    width: 260px;
+    
 }
 
-.shop-section{
+/* .shop-section{
     width: 260px;
-}
+} */
 
 .box{
 
